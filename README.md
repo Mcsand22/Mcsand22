@@ -11,7 +11,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/macarena-bernal-ramirez/](https://www.linkedin.com/in/macarena-bernal-ramirez/)
 
-- ⚡ My website **https://mcsand22.github.io/Bym-web/**
+- ⚡ My website - Español - **[https://mcsand22.github.io/Bym-web/](https://mcsand22.github.io/studiobym/)**
+
+- ⚡ My website - English - **[[https://mcsand22.github.io/Bym-web/](https://mcsand22.github.io/studiobym/)](https://mcsand22.github.io/studiobym-en/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

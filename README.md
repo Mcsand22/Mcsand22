@@ -13,7 +13,7 @@
 
 - ⚡ My website - Español - **[https://mcsand22.github.io/studiobym/](https://mcsand22.github.io/studiobym/)**
 
-- ⚡ My website - English - **[[https://mcsand22.github.io/studiobym-en/](https://mcsand22.github.io/studiobym/)](https://mcsand22.github.io/studiobym-en/)**
+- ⚡ My website - English - **[https://mcsand22.github.io/studiobym-en/](https://mcsand22.github.io/studiobym/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

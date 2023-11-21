@@ -15,9 +15,9 @@
 
 - ⚡ My website - English - **[https://mcsand22.github.io/studiobym-en/](https://mcsand22.github.io/studiobym-en/)**
 
-- ⚡ My website - Français - **[https://mcsand22.github.io/studiobym-en/](https://mcsand22.github.io/studiobym-fr/)**
+- ⚡ My website - Français - **[https://mcsand22.github.io/studiobym-fr/](https://mcsand22.github.io/studiobym-fr/)**
 
-- ⚡ My website - Português - **[https://mcsand22.github.io/studiobym-en/](https://mcsand22.github.io/studiobym-pr/)**
+- ⚡ My website - Português - **[https://mcsand22.github.io/studiobym-pr/](https://mcsand22.github.io/studiobym-pr/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
